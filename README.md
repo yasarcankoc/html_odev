@@ -1,1 +1,1 @@
-Patika html ödev1
+Patika html ödev1.
